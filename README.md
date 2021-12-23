@@ -4,7 +4,7 @@ HTML, CSS, JavaScript, React.js,React Hooks Router, Grid System of Bootstrap.
 
 ## Project Details
 
-![Demo](calcualtorGif.gif)
+![Demo](calculatorGif.gif)
 
 ### Purpose to Make Calculator
 
@@ -14,13 +14,13 @@ HTML, CSS, JavaScript, React.js,React Hooks Router, Grid System of Bootstrap.
 
 ### What i have learned
 
-#### Interactions with UI and key JavaScript methods.
-#### Working with user events and state to create interactive applications.
-#### How to work with lists and conditional content.
-#### React Hooks (in-depth)! ex. useSelector , useState, useEffect, useDispatch etc.
-#### Class-based components and functional components.
-#### Various HTML and CSS elements along with Basic JavaScript and modern ES6 practices used in building a functional and responsive calculator, as shown in the Gif above
-#### Routing with React Router.
-#### How to use Grid System of Bootstrap or React-Bootstrap
-#### Amazing things and learning a lot along on the way.
+#### :black_nib:Interactions with UI and key JavaScript methods.
+#### :black_nib:Working with user events and state to create interactive applications.
+#### :black_nib:How to work with lists and conditional content.
+#### :black_nib:React Hooks (in-depth)! ex. useSelector , useState, useEffect, useDispatch etc.
+#### :black_nib:Class-based components and functional components.
+#### :black_nib:Various HTML and CSS elements along with Basic JavaScript and modern ES6 practices used in building a functional and responsive calculator, as shown in the Gif above
+#### :black_nib:Routing with React Router.
+#### :black_nib:How to use Grid System of Bootstrap or React-Bootstrap
+#### :black_nib:Amazing things and learning a lot along on the way.
 
