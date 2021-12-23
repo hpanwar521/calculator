@@ -1,0 +1,29 @@
+.calculator{
+    width: 50vw;
+   color: aliceblue;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background-color: black;
+    margin: 20vh auto;
+    font-size: 3rem;
+    font-weight: bolder;
+
+    
+}
+
+.operations{
+    background-color: rgb(218, 57, 137);
+    border-radius: 20px;
+ 
+
+}
+.totalField{
+    text-align: center;
+    min-height: 5rem;
+}
+
+.total{
+    font-size: 2rem;
+    padding: 5px;
+    float: right;
+}
